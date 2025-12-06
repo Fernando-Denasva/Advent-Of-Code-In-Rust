@@ -1,5 +1,5 @@
 use core::error;
-use std::io::{BufRead, BufReader, Read};
+use std::io::{BufReader, Read};
 use std::{fs::File};
 use regex::Regex;
 

@@ -2,9 +2,15 @@
 Sharing Advent Of Code Solutions In Rust
 
 ## 2025
-- [x] Day 1
+- [ ] Day 1
+    ├── 1 - [X] 
+    └── 2 - [ ]
 - [X] Day 2
-- [ ] Day 3
+    ├── 1 - [X] 
+    └── 2 - [X]
+- [X] Day 3
+    ├── 1 - [X] 
+    └── 2 - [X]
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
@@ -14,3 +20,4 @@ Sharing Advent Of Code Solutions In Rust
 - [ ] Day 10
 - [ ] Day 11
 - [ ] Day 12
+
